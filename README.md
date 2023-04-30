@@ -26,7 +26,7 @@ The main purpose of this session will be to give you enough understanding to hel
 
 ## Week 4: Advanced Topics in Node.js
 - Real-time communication with WebSockets
-- Using Node.js with databases (MongoDB, MySQL, etc.)
+- Microservices using GRPC with Node.js
 - Debugging and testing Node.js applications
 - Security best practices in Node.js
 - Performance optimization techniques in Node.js
@@ -34,3 +34,13 @@ The main purpose of this session will be to give you enough understanding to hel
 ## Week 5: Question Answers and Queries
 
 <br>Happy Learning...</br>
+
+# Resouces and articles
+## Userful websites
+- Download from [Nodejs Official Site](https://nodejs.org/en)
+- Visit [Nodejs Official Documentation](https://nodejs.org/en/docs)
+- Visit [JAVASCRIPT.INFO](https://javascript.info/) for depth knowledge of Javascript.
+- For research and catching up with Nodejs Community Visit [Dev.to/node](https://dev.to/t/node) visit here.
+## Articles
+ - [Understanding Node.js Event-Driven Architecture](https://medium.com/edge-coders/understanding-node-js-event-driven-architecture-223292fcbc2d) by Samer Buna
+ - [How to Get Started with Node.js – Beginner's Guide to Node](https://www.freecodecamp.org/news/introduction-to-nodejs/)
