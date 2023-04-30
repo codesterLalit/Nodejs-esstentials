@@ -44,3 +44,7 @@ The main purpose of this session will be to give you enough understanding to hel
 ## Articles
  - [Understanding Node.js Event-Driven Architecture](https://medium.com/edge-coders/understanding-node-js-event-driven-architecture-223292fcbc2d) by Samer Buna
  - [How to Get Started with Node.js – Beginner's Guide to Node](https://www.freecodecamp.org/news/introduction-to-nodejs/)
+ - Samer Buna [Articles](https://www.freecodecamp.org/news/author/samerbuna/)
+
+# Free Books
+- [Nodejs in Action](https://github.com/geekyse/Books/raw/master/Node.js%20in%20Action%2C%202nd%20Edition.pdf) By Mike Cantelon, Marc Harter, T.J. Holowaychuk, and Nathan Rajlich
